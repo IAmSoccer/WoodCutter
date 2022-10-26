@@ -1,0 +1,6 @@
+name: Woodcutter
+description: Plugin that allows StoneCutters to strip Log and Wood variants.
+version: ${project.version}
+api-version: 1.19
+main: com.iamsoccer.plugins.woodcutter.Woodcutter
+author: IAmSoccer
